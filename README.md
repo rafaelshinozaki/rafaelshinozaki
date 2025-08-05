@@ -1,4 +1,4 @@
-<h1 align="center">Rafael Vieira Sinosaki</h1>
+<h1 align="center">Rafael Shinozaki</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=236AD3&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%40+Brazil;S%C3%A3o+Jos%C3%A9+dos+Campos%2C+SP+%E2%80%A2+Remote+Work;React+%7C+Node.js+%7C+TypeScript+%7C+Python;Web+Development+%26+Cloud+Solutions" alt="Typing SVG" />
@@ -20,7 +20,7 @@ Experienced in full-stack development, database management, cloud services, and 
 
 <div align="center">
 
-**📍 São José dos Campos, SP, Brazil** • **🌍 Remote Work** • **🗣️ Portuguese & English**
+**📍 São José dos Campos, SP, Brazil** • **🌍 Remote Work** • **🗣️ Portuguese, English & Spanish**
 
 </div>
 
