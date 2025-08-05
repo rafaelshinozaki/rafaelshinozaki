@@ -84,7 +84,11 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - Prof. Jessen Vidal
 <br/>
 <br/>
 
+<div align="center">
+
 **React** • **Redux** • **Vue.js** • **Angular** • **TypeScript** • **JavaScript** • **HTML5** • **CSS3** • **SASS** • **Material-UI** • **TailwindCSS** • **Bootstrap** • **jQuery**
+
+</div>
 
 ### Backend
 
@@ -102,7 +106,11 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - Prof. Jessen Vidal
 <br/>
 <br/>
 
+<div align="center">
+
 **Node.js** • **NestJS** • **Express** • **Flask** • **Python** • **PHP** • **TypeScript** • **JavaScript** • **Socket.io** • **Prisma** • **GraphQL**
+
+</div>
 
 ### Database
 
@@ -114,7 +122,11 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - Prof. Jessen Vidal
 <br/>
 <br/>
 
+<div align="center">
+
 **MongoDB** • **PostgreSQL** • **MySQL** • **SQLite** • **Redis**
+
+</div>
 
 ### Cloud & Services
 
@@ -126,7 +138,11 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - Prof. Jessen Vidal
 <br/>
 <br/>
 
+<div align="center">
+
 **AWS** • **Azure** • **Firebase** • **Docker** • **Kubernetes**
+
+</div>
 
 ### Development Tools
 
@@ -145,7 +161,11 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - Prof. Jessen Vidal
 <br/>
 <br/>
 
+<div align="center">
+
 **Git** • **GitHub** • **Bitbucket** • **Jira** • **Postman** • **VS Code** • **Figma** • **Putty** • **FileZilla** • **Linux** • **Chrome** • **Apple**
+
+</div>
 
 ### CMS & E-commerce
 
@@ -154,7 +174,11 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - Prof. Jessen Vidal
 <br/>
 <br/>
 
+<div align="center">
+
 **WordPress** • **WooCommerce**
+
+</div>
 
 ---
 
