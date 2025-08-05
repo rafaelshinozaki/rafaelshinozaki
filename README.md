@@ -68,6 +68,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - Prof. Jessen Vidal
 
 ### Frontend
 
+<div align="center">
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="Vue.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
@@ -84,14 +85,13 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - Prof. Jessen Vidal
 <br/>
 <br/>
 
-<div align="center">
-
 **React** • **Redux** • **Vue.js** • **Angular** • **TypeScript** • **JavaScript** • **HTML5** • **CSS3** • **SASS** • **Material-UI** • **TailwindCSS** • **Bootstrap** • **jQuery**
 
 </div>
 
 ### Backend
 
+<div align="center">
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="NestJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
 <img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
@@ -106,14 +106,13 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - Prof. Jessen Vidal
 <br/>
 <br/>
 
-<div align="center">
-
 **Node.js** • **NestJS** • **Express** • **Flask** • **Python** • **PHP** • **TypeScript** • **JavaScript** • **Socket.io** • **Prisma** • **GraphQL**
 
 </div>
 
 ### Database
 
+<div align="center">
 <img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -122,14 +121,13 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - Prof. Jessen Vidal
 <br/>
 <br/>
 
-<div align="center">
-
 **MongoDB** • **PostgreSQL** • **MySQL** • **SQLite** • **Redis**
 
 </div>
 
 ### Cloud & Services
 
+<div align="center">
 <img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="Azure" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain-wordmark.svg" />
 <img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
@@ -138,14 +136,13 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - Prof. Jessen Vidal
 <br/>
 <br/>
 
-<div align="center">
-
 **AWS** • **Azure** • **Firebase** • **Docker** • **Kubernetes**
 
 </div>
 
 ### Development Tools
 
+<div align="center">
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
 <img align="left" alt="Bitbucket" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
@@ -161,20 +158,17 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - Prof. Jessen Vidal
 <br/>
 <br/>
 
-<div align="center">
-
 **Git** • **GitHub** • **Bitbucket** • **Jira** • **Postman** • **VS Code** • **Figma** • **Putty** • **FileZilla** • **Linux** • **Chrome** • **Apple**
 
 </div>
 
 ### CMS & E-commerce
 
+<div align="center">
 <img align="left" alt="WordPress" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 <img align="left" alt="WooCommerce" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
 <br/>
 <br/>
-
-<div align="center">
 
 **WordPress** • **WooCommerce**
 
